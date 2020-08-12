@@ -45,4 +45,4 @@ There are currently no tests for this project.
 ## Questions  
 Have questions? Contact me at:
 ##### Email: zachcorpuz@yahoo.com
-##### Github:  **zcorpuz** [zcorpuz](https://github.com/zcorpuz)
+##### Github: [zcorpuz](https://github.com/zcorpuz)
